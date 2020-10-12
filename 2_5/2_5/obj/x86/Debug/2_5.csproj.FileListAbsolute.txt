@@ -1,0 +1,11 @@
+D:\c#\program\2_5\2_5\bin\Debug\2_5.exe
+D:\c#\program\2_5\2_5\bin\Debug\2_5.pdb
+D:\c#\program\2_5\2_5\obj\x86\Debug\2_5.exe
+D:\c#\program\2_5\2_5\obj\x86\Debug\2_5.pdb
+D:\c#\program\2_5\2_5\obj\x86\Debug\2_5.csprojResolveAssemblyReference.cache
+C:\Users\乔浩男\Desktop\2_5\2_5\bin\Debug\2_5.exe
+C:\Users\乔浩男\Desktop\2_5\2_5\bin\Debug\2_5.pdb
+C:\Users\乔浩男\Desktop\2_5\2_5\obj\x86\Debug\2_5.csprojAssemblyReference.cache
+C:\Users\乔浩男\Desktop\2_5\2_5\obj\x86\Debug\2_5.csproj.CoreCompileInputs.cache
+C:\Users\乔浩男\Desktop\2_5\2_5\obj\x86\Debug\2_5.exe
+C:\Users\乔浩男\Desktop\2_5\2_5\obj\x86\Debug\2_5.pdb
